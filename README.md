@@ -39,12 +39,6 @@ xiaomi-shop/
 
 ## 🌐 Live Demo
 
-Add your GitHub Pages website link here.
-
-## 👨‍💻 Author: Murzaliev Nuredil
-
-Created as a web development project.
-
----
+## 👨‍💻 Author: Murzaliev Nuredil.
 
 © 2026 Xiaomi Shop. All rights reserved.
