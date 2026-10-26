@@ -1,4 +1,4 @@
-
+  
 # 📱 Xiaomi Shop
 
 Welcome to Xiaomi Shop! This is a modern and responsive website for exploring Xiaomi smartphones and smart devices.
@@ -41,7 +41,7 @@ xiaomi-shop/
 
 Add your GitHub Pages website link here.
 
-## 👨‍💻 Author
+## 👨‍💻 Author: Murzaliev Nuredil
 
 Created as a web development project.
 
